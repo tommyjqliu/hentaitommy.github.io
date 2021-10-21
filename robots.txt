@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hentaitommy.github.io/sitemap.xml

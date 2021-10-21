@@ -1,31 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Tommy的博客</title>
-    <link>https://hentaitommy.github.io/posts/</link>
-    <description>Recent content in Posts on Tommy的博客</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh_CN</language>
-    <lastBuildDate>Wed, 20 Oct 2021 21:51:13 +0800</lastBuildDate><atom:link href="https://hentaitommy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>如何搭建博客</title>
-      <link>https://hentaitommy.github.io/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Wed, 20 Oct 2021 21:51:13 +0800</pubDate>
-      
-      <guid>https://hentaitommy.github.io/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <description>本博客的第一篇文章 </description>
-    </item>
-    
-    <item>
-      <title>First ArtSDSDSicle</title>
-      <link>https://hentaitommy.github.io/posts/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%AF%94%E5%AF%B9%E7%AE%97%E6%B3%95/</link>
-      <pubDate>Wed, 20 Oct 2021 17:56:23 +0800</pubDate>
-      
-      <guid>https://hentaitommy.github.io/posts/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%AF%94%E5%AF%B9%E7%AE%97%E6%B3%95/</guid>
-      <description>引言 在最近编辑器新增的推荐标签功能中，前端需要提取文章的一部分发送到后台进行分析。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Tommy的博客</title><link>https://hentaitommy.github.io/posts/</link><description>Recent content in Posts on Tommy的博客</description><image><url>https://hentaitommy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url><link>https://hentaitommy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link></image><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 20 Oct 2021 21:51:13 +0800</lastBuildDate><atom:link href="https://hentaitommy.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>博客搭建</title><link>https://hentaitommy.github.io/posts/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB1/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link><pubDate>Wed, 20 Oct 2021 21:51:13 +0800</pubDate><guid>https://hentaitommy.github.io/posts/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB1/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid><description>技术选型
+Hexo,Hugo,Vuepress,jekyll111</description></item><item><title>First ArtSDSDSicle</title><link>https://hentaitommy.github.io/posts/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%AF%94%E5%AF%B9%E7%AE%97%E6%B3%95/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%AF%94%E5%AF%B9%E7%AE%97%E6%B3%95/</link><pubDate>Wed, 20 Oct 2021 17:56:23 +0800</pubDate><guid>https://hentaitommy.github.io/posts/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%AF%94%E5%AF%B9%E7%AE%97%E6%B3%95/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%AF%94%E5%AF%B9%E7%AE%97%E6%B3%95/</guid><description>引言 在最近编辑器新增的推荐标签功能中，前端需要提取文章的一部分发送到后台进行分析。
 这个时候，遇到一个问题。有的时候提取部分只发生了很小的改动，如果再次发送提取部分到后台，就会让后台的预加载失效。
-如果，我们能在提取部分发送给后台之前，先衡量提取部分的改动大小，只在提取部分的改动大于一定程度时才向后台发送提取部分，就可以提高后台预加载的命中率。在这里我们就要引入文本比较算法了。</description>
-    </item>
-    
-  </channel>
-</rss>
+如果，我们能在提取部分发送给后台之前，先衡量提取部分的改动大小，只在提取部分的改动大于一定程度时才向后台发送提取部分，就可以提高后台预加载的命中率。在这里我们就要引入文本比较算法了。1</description></item><item><title>My 1st post</title><link>https://hentaitommy.github.io/posts/testpost/</link><pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate><guid>https://hentaitommy.github.io/posts/testpost/</guid><description>Desc Text.</description></item></channel></rss>
